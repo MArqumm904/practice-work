@@ -4,4 +4,4 @@
 <br><br>
 # <h4>Click here to open site</h4>
 <br>
-# <a href="index.html">Click</a>
+# <a href="file:///C:/Users/ma859/Downloads/templatemo_458_lavish/index.html">Click</a>
